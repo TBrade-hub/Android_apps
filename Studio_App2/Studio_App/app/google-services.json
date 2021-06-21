@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870495406483",
+    "firebase_url": "https://flowz-1daa0-default-rtdb.firebaseio.com",
+    "project_id": "flowz-1daa0",
+    "storage_bucket": "flowz-1daa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870495406483:android:c1ffb37208546de2d68066",
+        "android_client_info": {
+          "package_name": "com.android.example.studio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870495406483-2s4n8onffdh9cau91uofgdph9he6a2j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.example.studio_app",
+            "certificate_hash": "a9381010f8799588a2437f607b7c2c13557e5c4c"
+          }
+        },
+        {
+          "client_id": "870495406483-nao2r7o2u8cs1p38g05ja5mcsuv5kfdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqv83kN281PkHatRLvCUGRkWhnKS_4q8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870495406483-nao2r7o2u8cs1p38g05ja5mcsuv5kfdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

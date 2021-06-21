@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Studio_App</string>
     <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="userNameTextView">USER NAME :</string>
+    <string name="passwordTextView">"PASSWORD : "</string>
+    <string name="home">Home</string>
+    <string name="show_case">Show Case</string>
+    <string name="bookings">Bookings</string>
+    <string name="Studio_Project_Title">STUDIO PROJECT</string>
 </resources>
